@@ -5,16 +5,20 @@
 **Project Directory**
 
 [Home]()
+<br>
 [GitHub](https://github.com/JihoChoi/health-boy-game)
-[Google Drive (View)](https://drive.google.com/open?id=1YA5ZVQW4UHu24x2BZSWBE-46cfwJPx8W6uF_X4wuytg)
+<br>
+[Google Drive (View)](https://drive.google.com/drive/folders/0B4Xhj87QfEplTFV4dl8wRUEzbGs)
+<br>
 [Heroku]()
-
-
+<br>
+[Server Repo](https://github.com/JaeLee18/HealthBoy)
+<br>
 **Developers and Designers**
 
 - Jiho Choi - iOS
 - Jerry Woo - Android
-- Jaejoon Lee - Server
+- Jaejoong Lee - Server
 - Sunheang Lee - Images
 
 
