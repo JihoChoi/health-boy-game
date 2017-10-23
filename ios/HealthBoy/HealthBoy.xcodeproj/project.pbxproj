@@ -14,6 +14,8 @@
 		1353E3441F9E872800ED5FC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1353E3431F9E872800ED5FC4 /* Assets.xcassets */; };
 		1353E3471F9E872800ED5FC4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1353E3451F9E872800ED5FC4 /* LaunchScreen.storyboard */; };
 		1353E34F1F9E8CB800ED5FC4 /* GameElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1353E34E1F9E8CB800ED5FC4 /* GameElements.swift */; };
+		1353E3511F9E96F400ED5FC4 /* GenericNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1353E3501F9E96F400ED5FC4 /* GenericNode.swift */; };
+		1353E3531F9E994700ED5FC4 /* PlatformNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1353E3521F9E994700ED5FC4 /* PlatformNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		1353E3461F9E872800ED5FC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1353E3481F9E872800ED5FC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1353E34E1F9E8CB800ED5FC4 /* GameElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameElements.swift; sourceTree = "<group>"; };
+		1353E3501F9E96F400ED5FC4 /* GenericNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericNode.swift; sourceTree = "<group>"; };
+		1353E3521F9E994700ED5FC4 /* PlatformNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlatformNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				1353E33C1F9E872800ED5FC4 /* GameScene.swift */,
 				1353E33E1F9E872800ED5FC4 /* GameViewController.swift */,
 				1353E34E1F9E8CB800ED5FC4 /* GameElements.swift */,
+				1353E3501F9E96F400ED5FC4 /* GenericNode.swift */,
+				1353E3521F9E994700ED5FC4 /* PlatformNode.swift */,
 				1353E3401F9E872800ED5FC4 /* Main.storyboard */,
 				1353E3431F9E872800ED5FC4 /* Assets.xcassets */,
 				1353E3451F9E872800ED5FC4 /* LaunchScreen.storyboard */,
@@ -145,6 +151,8 @@
 				1353E34F1F9E8CB800ED5FC4 /* GameElements.swift in Sources */,
 				1353E33D1F9E872800ED5FC4 /* GameScene.swift in Sources */,
 				1353E33F1F9E872800ED5FC4 /* GameViewController.swift in Sources */,
+				1353E3511F9E96F400ED5FC4 /* GenericNode.swift in Sources */,
+				1353E3531F9E994700ED5FC4 /* PlatformNode.swift in Sources */,
 				1353E3371F9E872800ED5FC4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
