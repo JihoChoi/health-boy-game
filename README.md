@@ -14,14 +14,16 @@
 
 - Jiho Choi - iOS
 - Jerry Woo - Android
-- Jaejoon Lee - Post/Get Server
-- Sunheang Lee - Dot images
+- Jaejoon Lee - Server
+- Sunheang Lee - Images
+
 
 **Language and Frameworks**
 
 - iOS Swift
 - Android Java
 - or React Native, NodeJS
+
 
 **Game Description**
 
@@ -33,10 +35,12 @@
 - Once the character became too big, the player lose. (Character status: normal, thin, fat)
 - Players can gain points by having star or ...
 
+
 **Reference YouTube Lectures**
 
 1.
 2.
+
 
 **Future Plans**
 
