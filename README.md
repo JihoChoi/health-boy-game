@@ -39,9 +39,9 @@
 - Once the character became too big, the player lose. (Character status: normal, thin, fat)
 - Players can gain points by having star or ...
 
-** DB Documentation **
- [Doumentation](https://github.com/JaeLee18/HealthBoy#healthboy)
- 
+**DB Documentation**
+ - [Doumentation](https://github.com/JaeLee18/HealthBoy#healthboy)
+
 **Reference YouTube Lectures**
 
 1.
